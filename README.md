@@ -16,11 +16,16 @@ Genetic-algorithm designed variational quantum circuits optimized for expressibi
 If you use the circuits, methodology, or results from this repository, please cite:
 
 ```bibtex
-@article{mallapur2025genetic,
-  title   = {Genetic optimization of ansatz expressibility for enhanced variational quantum algorithm performance},
-  author  = {Mallapur, Manish and Raj, Ronit and Raina, Ankur},
-  journal = {arXiv preprint arXiv:2509.05804},
-  year    = {2025}
+@article{812w-ytnb,
+  title = {Genetic optimization of ansatz expressibility for enhanced variational-quantum-algorithm performance},
+  author = {Mallapur, Manish and Raj, Ronit and Raina, Ankur},
+  journal = {Phys. Rev. A},
+  pages = {--},
+  year = {2026},
+  month = {Feb},
+  publisher = {American Physical Society},
+  doi = {10.1103/812w-ytnb},
+  url = {https://link.aps.org/doi/10.1103/812w-ytnb}
 }
 ```
 
