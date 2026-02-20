@@ -1,6 +1,7 @@
 # Genetic Optimization of Variational Quantum Circuits
 
 [![arXiv](https://img.shields.io/badge/arXiv-2509.05804-b31b1b.svg)](https://arxiv.org/abs/2509.05804)
+[![PRA](https://img.shields.io/badge/PRA-10.1103%2F812w--ytnb-600cb9.svg)](https://doi.org/10.1103/812w-ytnb)
 ![Python](https://img.shields.io/badge/Python-3.10-blue)
 ![PennyLane](https://img.shields.io/badge/PennyLane-Quantum-purple)
 ![JAX](https://img.shields.io/badge/JAX-Accelerated-green)
