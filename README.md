@@ -47,12 +47,6 @@ OR
 }
 ```
 
-**Citation format:**
-
-Mallapur, M., Raj, R., & Raina, A. (2025).  
-*Genetic optimization of ansatz expressibility for enhanced variational quantum algorithm performance.*  
-arXiv:2509.05804.
-
 ---
 
 ## 📖 Overview
