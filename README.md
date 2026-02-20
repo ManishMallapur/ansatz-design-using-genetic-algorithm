@@ -171,8 +171,6 @@ For additional raw outputs or extended logs, please refer to the arXiv paper or 
 | **Manish Mallapur** | [manish.mallapur@gmail.com](mailto:manish.mallapur@gmail.com) |
 | **Ronit Raj** | [ronitraj.0018@gmail.com](mailto:ronitraj.0018@gmail.com) |
 | **Dr. Ankur Raina** | [ankur@iiserb.ac.in](mailto:ankur@iiserb.ac.in) |
----
 
-## 📧 Contact
-
+### Contact
 For questions regarding the methodology or additional data, please contact the authors listed in the manuscript.
