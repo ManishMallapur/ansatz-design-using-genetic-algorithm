@@ -31,6 +31,15 @@ If you use the circuits, methodology, or results from this repository, please ci
   publisher = {American Physical Society},
   doi = {10.1103/812w-ytnb},
   url = {https://link.aps.org/doi/10.1103/812w-ytnb}
+
+OR
+
+@article{mallapur2025genetic,
+  title={Genetic optimization of ansatz expressibility for enhanced variational quantum algorithm performance},
+  author={Mallapur, Manish and Raj, Ronit and Raina, Ankur},
+  journal={arXiv preprint arXiv:2509.05804},
+  year={2025}
+}
 }
 ```
 
