@@ -9,9 +9,10 @@ Genetic-algorithm designed variational quantum circuits optimized for expressibi
 
 📄 **Paper:** 
 
-  **arXiv**: https://arxiv.org/abs/2509.05804
+  Phys. Rev. A: https://doi.org/10.1103/812w-ytnb
   
-  **Phys. Rev. A.**: https://doi.org/10.1103/812w-ytnb
+  arXiv: https://arxiv.org/abs/2509.05804
+  
 
 ---
 
