@@ -1,0 +1,10 @@
+{"generation": 1, "qubits": 2, "layers": 8, "expressibility": 0.0555217422172342, "circuit": [["h", "h"], ["rz", "rx"], ["h", "ry"], ["ry", "ry"], ["cxc", "cxt"], ["cxc", "cxt"], ["ry", "rz"], ["cxc", "cxt"]]}
+{"generation": 2, "qubits": 2, "layers": 8, "expressibility": 0.05785099417533685, "circuit": [["h", "h"], ["rx", "h"], ["ry", "ry"], ["h", "rx"], ["rz", "rz"], ["ry", "h"], ["cxc", "cxt"], ["ry", "ry"]]}
+{"generation": 3, "qubits": 2, "layers": 8, "expressibility": 0.057654409805767956, "circuit": [["h", "h"], ["rx", "h"], ["ry", "ry"], ["cxt", "cxc"], ["rx", "rz"], ["ry", "h"], ["rx", "rz"], ["rx", "rz"]]}
+{"generation": 4, "qubits": 2, "layers": 8, "expressibility": 0.052311953981807754, "circuit": [["h", "h"], ["rx", "h"], ["ry", "ry"], ["h", "rx"], ["rz", "rz"], ["ry", "h"], ["cxc", "cxt"], ["ry", "ry"]]}
+{"generation": 5, "qubits": 2, "layers": 8, "expressibility": 0.05206152389546855, "circuit": [["h", "h"], ["rx", "h"], ["ry", "ry"], ["h", "rx"], ["rz", "rz"], ["ry", "h"], ["cxc", "cxt"], ["ry", "ry"]]}
+{"generation": 6, "qubits": 2, "layers": 8, "expressibility": 0.049955225174579156, "circuit": [["h", "h"], ["rx", "h"], ["ry", "ry"], ["h", "rx"], ["rz", "rz"], ["ry", "h"], ["cxc", "cxt"], ["ry", "ry"]]}
+{"generation": 7, "qubits": 2, "layers": 8, "expressibility": 0.0519655336765985, "circuit": [["h", "h"], ["rx", "h"], ["ry", "ry"], ["h", "rx"], ["rz", "rz"], ["ry", "h"], ["cxc", "cxt"], ["ry", "ry"]]}
+{"generation": 8, "qubits": 2, "layers": 8, "expressibility": 0.051810075664144556, "circuit": [["h", "h"], ["rx", "h"], ["ry", "ry"], ["h", "rx"], ["rz", "rz"], ["ry", "h"], ["cxc", "cxt"], ["ry", "ry"]]}
+{"generation": 9, "qubits": 2, "layers": 8, "expressibility": 0.05155637930374059, "circuit": [["h", "h"], ["rx", "h"], ["ry", "ry"], ["h", "rx"], ["rz", "rz"], ["ry", "h"], ["cxc", "cxt"], ["ry", "ry"]]}
+{"generation": 10, "qubits": 2, "layers": 8, "expressibility": 0.043311756120985534, "circuit": [["h", "h"], ["rx", "h"], ["ry", "ry"], ["h", "rx"], ["rz", "rz"], ["ry", "h"], ["cxc", "cxt"], ["ry", "ry"]]}
